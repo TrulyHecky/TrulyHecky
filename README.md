@@ -1,4 +1,4 @@
 - 👋 Hi, I’m TrulyHecky!
 - 👀 I’m interested in Python, Artificial Intelligence, solving problems and creating applications.
-- 🌱 I’m currently learning Python programming language. (and it's GUI framework - PyQT5)
+- 🌱 I’m currently learning Python programming language.
 - 📫 How to reach me - trulyhecky@gmail.com. I will be waiting for you!
